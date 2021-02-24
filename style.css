@@ -1,0 +1,73 @@
+body,
+html {
+  height: 100%;
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+.nav {
+  float: right;
+  padding-top: 30px;
+  padding-right: 20px;
+}
+.nav a {
+  color: white;
+  text-decoration: none;
+  padding-right: 50px;
+  font-size: 40px;
+}
+.container {
+  padding-left: 20px;
+  margin-left: 20px;
+  padding-top: 180px;
+}
+.container h1 {
+  font-size: 60px;
+  padding-left: 5px;
+}
+.container p {
+  font-size: 20px;
+  color: white;
+}
+h1 {
+  padding-top: 50px;
+  font-size: 50px;
+  margin: auto;
+  padding-left: 30px;
+}
+img {
+  width: 40%;
+  padding-left: 400px;
+  padding-top: -10px;
+}
+
+/*.bg {
+  /* The image used */
+/*background-image: url("pexels-amina-filkins-5409764.jpg");
+
+  /* Full height */
+/* height: 100%;
+
+  /* Center and scale the image nicely */
+/*
+  }  
+
+
+/*.navbar-nav {
+  float: right;
+  display: flex;
+  list-style-type: none;
+  
+  margin-top: 25px;
+}
+.navbar-nav a {
+  padding: 30px;
+  text-decoration: none;
+
+  font-size: 50px;
+
+  color: white;
+}
+#text {
+  display: flex;
+  margin-top: 50px;
+}*/
